@@ -1,8 +1,8 @@
 # Welcome to my profile, i'm 6segs.
-### ☘️ Active projects i'm working on:
-> 🌹 kittybox.me 
-### 🚀 My Information
-- glockk17 (604468413913628684)
+### 💠 Active projects i'm working on:
+> ⏩ kittybox.me 
+### 📘 My Information
+- Discord: glockk17 (604468413913628684)
 
 <h3 align="center">Languages</h3> 
 <p align="center"> <a href="https://lua.org" target="_blank" rel="noreferrer"> 
