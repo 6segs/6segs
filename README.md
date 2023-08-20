@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @6segs
-- 👀 I’m interested in dababy
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on robloks
-- 📫 How to reach me @0rxc3 on twitter, digi#7792 and noclipz on ig
+# Welcome to my profile, i'm 6segs.
+### ☘️ Active projects i'm working on:
+> 🌹 kittybox.me 
+### 🚀 My Information
+- glockk17 (604468413913628684)
 
-<!---
-6segs/6segs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. ok
---->
+<h3 align="center">Languages</h3> 
+<p align="center"> <a href="https://lua.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-plain.svg" alt="lua" width="40" height="40"/> 
